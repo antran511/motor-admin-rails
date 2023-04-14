@@ -53,7 +53,7 @@ module Motor
   end
 
   def company_name
-    'Motor Admin'
+    'Vạn Phú Bình'
   end
 
   def with_public_access?
